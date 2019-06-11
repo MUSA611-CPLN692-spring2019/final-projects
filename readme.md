@@ -61,7 +61,7 @@ We are including the final projects here out of the believe that students in fut
 - [LIRR TOD Opportunity Rating System](https://astoriayu.github.io/LIRR_TOD-FinalProject/tod.html)    
   @AstoriaYU
   
-- [Philly Amendity Finder](https://yufeiy6.github.io/Yufei_Yuan_Final/index.html)    
+- [Philly Amenity Finder](https://yufeiy6.github.io/Yufei_Yuan_Final/index.html)    
     @yufeiy6
   
   
