@@ -1,8 +1,8 @@
 ## Final projects from UPenn MUSA611-CPLN692 - Spring 2019
 #### Introduction to Web Mapping
 
-- [Congestion Prediction Modeling](https://msdakot.github.io/Congestion-Prediction-in-Louisville-KY/index.html#) 
-	               @SagariDatta, 
+- [Congestion Prediction Modeling](https://msdakot.github.io/Congestion-Prediction-in-Louisville-KY/index.html#)
+	@SagariDatta, 
 
 - [SEPTA Rail Station Connection Mapper](https://alex0easy.github.io/septa-connection-viewer/)
 	@alex0easy
