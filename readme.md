@@ -53,14 +53,14 @@
 - [LIRR TOD Opportunity Rating System](https://astoriayu.github.io/LIRR_TOD-FinalProject/tod.html)    
   @AstoriaYU
   
--[Philly Amendity Finder](https://yufeiy6.github.io/Yufei_Yuan_Final/index.html)    
+- [Philly Amendity Finder](https://yufeiy6.github.io/Yufei_Yuan_Final/index.html)    
     @yufeiy6
   
   
--[Philly Shooting Explorer](https://toadha.github.io/692_final/index.html)    
+- [Philly Shooting Explorer](https://toadha.github.io/692_final/index.html)    
     @ToadHa
     
     
--[Barcelona Apartment Finder](https://lizhuang214.github.io/jsairbnb/airbnb_barcelona_js/Index.html)    
+- [Barcelona Apartment Finder](https://lizhuang214.github.io/jsairbnb/airbnb_barcelona_js/Index.html)    
     @LiZhuang214
   
