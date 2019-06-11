@@ -1,6 +1,14 @@
 ## Final Projects from Penn Design: MUSA611 // CPLN692, Spring 2019
 #### Introduction to Web Mapping
 
+Students spent the final portion of the semester working on the final project on the subject of their choice.    
+    
+About half the students entered the class with some programming experience. A couple of students had fairly significant experience. But just about everyone was new to JavaScript + Web mapping tools and enrolled in the class out of an interest to learn more about open source tools for making online, interactive maps and other data visualization tools.     
+    
+We are including the final projects here out of the believe that students in future classes may be able to partner with groups interested in incorporating a map into a real world project.   The following projects were all developed by individuals or groups of 2-3 studnets working together for 3 - 6 weeks.    
+
+    
+
 - [Congestion Prediction Modeling](https://msdakot.github.io/Congestion-Prediction-in-Louisville-KY/index.html#)    
 	@SagariDatta, @msdakot, @LufengLIN
 
