@@ -12,27 +12,27 @@ We are including the final projects here out of the belief that students in futu
 - [Congestion Prediction Modeling](https://msdakot.github.io/Congestion-Prediction-in-Louisville-KY/index.html#)    
 	@SagariDatta, @msdakot, @LufengLIN
 
-- [SEPTA Rail Station Connection Mapper](https://alex0easy.github.io/septa-connection-viewer/)    
-	@alex0easy
-
-
 - [Smoke Detector Outreach Locator](https://mayutanaka.github.io/outreach-locator/)    
 	@rharto, mayutanaka
 
 - [Ancient Athens: A Guide](https://yixuanhu0106.github.io/Ancient_Athens/)    
 	@Yixuanhu0106
-	
+
+ - [Philly Rentals](https://angelicakim28.github.io/PhillyRentals/rentals3.html)    
+  @angelicakim28
+
+
+- [LIRR TOD Opportunity Rating System](https://astoriayu.github.io/LIRR_TOD-FinalProject/tod.html)    
+	@AstoriaYU
+
+- [SEPTA Rail Station Connection Mapper](https://alex0easy.github.io/septa-connection-viewer/)    
+	@alex0easy
+ 
+- [Inspection Catchments](https://musacuse.github.io/app/)    
+	@jibran888, @jonoyuan
+  
 - [Exploring Detroit](https://rochineer.github.io/FinalProject-YichaoJia/)    
  @rochineer
- 
- - [Companies and airports in PA](https://github.com/enjoyjubilee/High-growth-companies-and-airports-in-PA_New/tree/master/Midterm_JavaScript_InteractiveMap)    
-  @enjoyjubilee
-  
-- [Inspection Catchments](https://musacuse.github.io/app/)    
-  @jibran888, @jonoyuan
-  
-- [Philly Rentals](https://angelicakim28.github.io/PhillyRentals/rentals3.html)    
-  @angelicakim28
   
 - [Explore NYC Subway Stations & Nearby Blocks](https://laq-anqi.github.io/CPLN692-Final-Project/)    
   @laq-anqi
@@ -58,20 +58,18 @@ We are including the final projects here out of the belief that students in futu
 - [Bike-share System Evaluation](https://zxuanxu.github.io/Divvy_evaluation/)    
   @zxuanxu
   
-- [LIRR TOD Opportunity Rating System](https://astoriayu.github.io/LIRR_TOD-FinalProject/tod.html)    
-  @AstoriaYU
-  
 - [Philly Amenity Finder](https://yufeiy6.github.io/Yufei_Yuan_Final/index.html)    
     @yufeiy6
-  
   
 - [Philly Shooting Explorer](https://toadha.github.io/692_final/index.html)    
     @ToadHa
     
-    
 - [Barcelona Apartment Finder](https://lizhuang214.github.io/jsairbnb/airbnb_barcelona_js/Index.html)    
     @LiZhuang214
     
+- [Companies and airports in PA](https://github.com/enjoyjubilee/High-growth-companies-and-airports-in-PA_New/tree/master/Midterm_JavaScript_InteractiveMap)    
+  @enjoyjubilee   
+  
     
 - [UFOs!](https://anagha-jay.github.io/)
 	@anagha-jay
